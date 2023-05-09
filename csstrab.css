@@ -1,0 +1,40 @@
+.corpo{
+    background-image: linear-gradient(
+        to top ,
+        gray,
+         yellow
+    );
+}
+.titulo1{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+    text-align: center;
+}
+.img1{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.p1{
+    font-size: 120%;
+    font-style: oblique;
+}
+.container{
+    display:flex ;
+}
+.Sinopse{
+    font-size: 120%;
+    font-style: oblique;
+}
+.final{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+    text-align: center;
+    font-size: 120%;
+    font-style: unset;
+
+}
+
+ 
